@@ -1,0 +1,11 @@
+•	DI-2008 hardware installed
+
+•	WinDaq software installed: https://www.dataq.com/products/windaq/
+
+•	DATAQ SDK installation must be newer than 12/8/17
+
+•	Matlab support package for Arduino: https://www.mathworks.com/hardware-support/arduino-matlab.html
+
+•	Settings file for the temperature manipulation application
+
+•	Temperature manipulation application (source code)
